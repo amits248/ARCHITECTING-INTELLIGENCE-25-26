@@ -18,7 +18,7 @@
 | Jaswanth kumar        |    | 1  |    |    |    |    |    |    |    |     |
 | Kartikey Singh Tomar  | 1  | 1  |    |    |    |    |    |    |    |     |
 | Kavya Jain            |    | 1  |    |    |    |    |    |    |    |     |
-| Krisha Gothi          |    |    |    |    |    |    |    |    |    |     |
+| Krisha Gothi          |    | 1  |    |    |    |    |    |    |    |     |
 | K Soni sowbhagya      | 1  |    |    |    |    |    |    |    |    |     |
 | Mayank Verma          | 1  | 1  |    |    |    |    |    |    |    |     |
 | Mishka Gupta          | 1  |    |    |    |    |    |    |    |    |     |
