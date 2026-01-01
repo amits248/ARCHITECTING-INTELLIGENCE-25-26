@@ -23,7 +23,7 @@ V: Verfied, NS: Not submitted
 | K Soni sowbhagya |  |  |  |  |  |
 | Mayank Verma |  |  |  |  |  |
 | Mishka Gupta |  |  |  |  |  |
-| Paridhi Panwar |  |  |  |  |  |
+| Paridhi Panwar | V |  |  |  |  |
 | Priyanshu Joshi |  |  |  |  |  |
 | Prabhanshu |  |  |  |  |  |
 | Ranjan ojha |  |  |  |  |  |
@@ -32,6 +32,6 @@ V: Verfied, NS: Not submitted
 | Rounak Mandal |  |  |  |  |  |
 | Saloni kumari |  |  |  |  |  |
 | Shambhavi Singh |  |  |  |  |  |
-| Venkata Sai Koppala |  |  |  |  |  |
+| Venkata Sai Koppala | V |  |  |  |  |
 | Vishnu Sarathy B |  |  |  |  |  |
 | utkarsh singhal |  |  |  |  |  |
